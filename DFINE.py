@@ -13,12 +13,12 @@ WINDOW_POSITION_DOWN        = 50
 
 
 
-BLUE_COLOR                   = '#75a2e8'
-RED_COLOR                   = '#ff455c'
-GREEN_COLOR                   = '#7be875'
-PINK_COLOR                   = '#e875d8'
+BLUE_COLOR                     = '#75a2e8'
+RED_COLOR                      = '#ff455c'
+GREEN_COLOR                    = '#7be875'
+PINK_COLOR                     = '#e875d8'
 ORANGE_COLOR                   = '#e6882a'
-BACKGROUND_COLOR = '#42f478'
+BACKGROUND_COLOR               = '#42f478'
 
 
 
