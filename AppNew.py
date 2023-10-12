@@ -42,7 +42,7 @@ class App :
         
         #Open ảnh mặc định
         
-        self.imgLabel = ImageZoomApp(self.window, os.path.join(IMAGE_PATH,'Diep.jpg'))
+        self.imgLabel = ImageZoomApp(self.window, os.path.join(IMAGE_PATH,'HienXinhGai.jpg'))
         self.imgLabel.load_image(self.imgLabel.image_tk)
         
         
